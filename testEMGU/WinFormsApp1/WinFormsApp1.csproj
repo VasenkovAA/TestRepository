@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV" Version="4.7.0.5276" />
+    <PackageReference Include="Emgu.CV.runtime.windows" Version="4.7.0.5276" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Emgu.CV">
+      <HintPath>bin\Debug\net6.0-windows\Emgu.CV.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

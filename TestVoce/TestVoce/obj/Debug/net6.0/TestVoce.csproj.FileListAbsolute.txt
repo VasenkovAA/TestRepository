@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TestVoce\TestVoce\bin\Debug\net6.0\TestVoce.exe
+C:\Users\user\source\repos\TestVoce\TestVoce\bin\Debug\net6.0\TestVoce.deps.json
+C:\Users\user\source\repos\TestVoce\TestVoce\bin\Debug\net6.0\TestVoce.runtimeconfig.json
+C:\Users\user\source\repos\TestVoce\TestVoce\bin\Debug\net6.0\TestVoce.dll
+C:\Users\user\source\repos\TestVoce\TestVoce\bin\Debug\net6.0\TestVoce.pdb
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.AssemblyInfo.cs
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.dll
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\refint\TestVoce.dll
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.pdb
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\TestVoce.genruntimeconfig.cache
+C:\Users\user\source\repos\TestVoce\TestVoce\obj\Debug\net6.0\ref\TestVoce.dll
